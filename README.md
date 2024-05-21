@@ -16,11 +16,11 @@ TDS--applied-project: Tabular Data Science Projet, Data Analyze, visualize inter
 
 ## 🚀 Languages and Tools
 * Python
-Java
-C / CPP
-Assembly 
-R
-SQL
+* Java
+* C / CPP
+* Assembly 
+* R
+* SQL
 ## 📫 Contact Me
 LinkedIn: (https://www.linkedin.com/in/naama-kashani-35b275262/)
 Email: naamakashani@gmail.com
