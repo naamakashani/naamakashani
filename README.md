@@ -15,7 +15,7 @@ Use diabetes prediction dataset, explore the data : preprocess, EDA, Dimensional
 TDS--applied-project: Tabular Data Science Projet, Data Analyze, visualize interesting patterns,run ML algorithms,  improve results and analyze our final model performance.
 
 ## 🚀 Languages and Tools
-Python 
+* Python
 Java
 C / CPP
 Assembly 
