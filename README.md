@@ -13,4 +13,11 @@ ML- biology Project:
 Use diabetes prediction dataset, explore the data : preprocess, EDA, Dimensionality reduction, ML algorithms such as Decision Tree, Random Forest, K-means, SVM etc.
 
 TDS--applied-project: Tabular Data Science Projet, Data Analyze, visualize interesting patterns,run ML algorithms,  improve results and analyze our final model performance.
--->
+
+## Languages and Tools
+Python 
+Java
+C / CPP
+Assembly 
+R
+SQL
