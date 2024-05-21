@@ -1,6 +1,6 @@
 ## Hi there 👋
-##Naama Kashani
-Hello! 👋 My name is Naama. I'm passionate about code, technology, and innovation.
+## Naama Kashani
+Hello! My name is Naama. I'm passionate about code, technology, and innovation.
 ## Projects
 Over the years, I've had the privilege of working on several coding projects spanning multiple languages. Here's a brief overview:
 
