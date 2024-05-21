@@ -22,7 +22,7 @@ TDS--applied-project: Tabular Data Science Projet, Data Analyze, visualize inter
 * R
 * SQL
 ## 📫 Contact Me
-LinkedIn: (https://www.linkedin.com/in/naama-kashani-35b275262/)
-Email: naamakashani@gmail.com
+* LinkedIn: (https://www.linkedin.com/in/naama-kashani-35b275262/)
+* Email: naamakashani@gmail.com
 
 If you're interested in collaborating on a project, or just want to chat, feel free to reach out! I'm always eager to connect with fellow tech enthusiasts.
