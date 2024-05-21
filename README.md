@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## Naama Kashani
 Hello! My name is Naama. I'm passionate about code, technology, and innovation.
-## Projects
+## 🛠️ Projects
 Over the years, I've had the privilege of working on several coding projects spanning multiple languages. Here's a brief overview:
 
 Client-Server-TCP - server clients code in TCP protocol, Multithreading (CPP).
@@ -14,10 +14,15 @@ Use diabetes prediction dataset, explore the data : preprocess, EDA, Dimensional
 
 TDS--applied-project: Tabular Data Science Projet, Data Analyze, visualize interesting patterns,run ML algorithms,  improve results and analyze our final model performance.
 
-## Languages and Tools
+## 🚀 Languages and Tools
 Python 
 Java
 C / CPP
 Assembly 
 R
 SQL
+## 📫 Contact Me
+LinkedIn: (https://www.linkedin.com/in/naama-kashani-35b275262/)
+Email: naamakashani@gmail.com
+
+If you're interested in collaborating on a project, or just want to chat, feel free to reach out! I'm always eager to connect with fellow tech enthusiasts.
